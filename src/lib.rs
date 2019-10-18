@@ -11,6 +11,7 @@
 #![cfg_attr(non_exhaustive,feature(non_exhaustive))]
 #![cfg_attr(unicode,feature(str_char))]
 #![cfg_attr(unicode,feature(unicode))]
+#![feature(maybe_uninit_ref)]
 #![no_std]
 
 #[cfg_attr(feature="collections",macro_use)]
