@@ -1,3 +1,7 @@
+# Note
+
+We no longer use this in Theseus -- it's just kept around for compatibility with older commits. 
+
 # core_io
 
 [![Build Status](https://travis-ci.com/jethrogb/rust-core_io.svg?branch=master)](https://travis-ci.com/jethrogb/rust-core_io)
